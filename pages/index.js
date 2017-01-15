@@ -23,7 +23,7 @@ export default class Index extends React.Component {
                I have recently taken up an interest in JavaScript. Not sure what took me this long, but this jouney has just begun, and I am ready to grow 🐍⃗🐉! Thanks for stopping by. 🙏
               </p>
               <p className="flow-text">Oh yeah, here are some pineapples.</p>
-              <img className="responsive-img z-depth-3" src={prefixLink('/images/pineapples.jpg')} />
+              <img className="responsive-img z-depth-3" src={prefixLink('/images/h-pineapples.jpg')} />
             </div>
           </div>
           <div className="row">
